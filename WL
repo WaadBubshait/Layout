@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+<title> form</title>
+</head>
+
+<label><b><font size="+5"> 	Welcome to form </font></b></label>
+<br>
+
+</br>
+<label><b>First Name:</b></label>
+<br>
+<input type="text" placeholder=" Enter your first name" size="20">
+</br>
+
+<label><b> Last Name: </b></label> <br>
+<input type="text" placeholder=" Enter your last name" size="20">
+</br>
+
+<label><b> Sex: Male <input type="radio" name="W1" value="M" checked> Female <input type="radio" name="W1" value="F"> <br>
+</b>
+
+<label><b> Hobbies:</b></label> <input type="checkbox"> Reading <input type="checkbox" checked> Writing <input type="checkbox">Paying <br>
+</br> 
+
+<input type="submit" value="submit">
+
+</body>
